@@ -1,7 +1,0 @@
-========== QUIZ RESULT ==========
-
-Name        : Mananpreet
-Roll Number : 1
-Score       : 15/42
-
-Status : FAIL

@@ -1,7 +1,0 @@
-========== QUIZ RESULT ==========
-
-Name        : harry
-Roll Number : 2
-Score       : 21/42
-
-Status : PASS
